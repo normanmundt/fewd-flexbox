@@ -1,9 +1,10 @@
+.container {
+    background-color: lightgray
+}
+
 .box {
     height: 100px;
     width: 100px;
     color: blue
 }
 
-.container {
-    background-color: lightgray
-}
