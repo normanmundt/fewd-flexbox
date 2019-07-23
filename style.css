@@ -1,4 +1,4 @@
-.box {
+.box1 {
     height: 100px;
     width: 100px;
     background-color: blue
@@ -8,5 +8,15 @@
     background-color: lightgray
 }
 
+.box2 {
+    height: 100px;
+    width: 100px;
+    background-color: yellow
+}
 
+.box3 {
+    height: 100px;
+    width: 100px;
+    background-color: green
+}
 
